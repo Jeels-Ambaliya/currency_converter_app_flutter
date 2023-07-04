@@ -13,7 +13,7 @@
 
 <br /><br /><br /><br />
 
-## Gallery Viwer App
+## Currency Convertor App
 
 Your All-in-One Currency Converter App with Global Currency Support.
 
